@@ -1,0 +1,5 @@
+@mixin box ($w, $h, $c) {
+    width: $w;
+    height: $h;
+    background-color: $c;
+}
